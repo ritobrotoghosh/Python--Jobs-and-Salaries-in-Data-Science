@@ -54,8 +54,7 @@ Participants in the dataset reported their experience levels, which are categori
 ## Key Findings
 
 1. **Trend**:
-
-- Post 2021, Data Science and Research recorded the highest surge in job roles ending 2023 at nearly 2500 roles. Truly complementing why it’s the most in demand sector in IT, closely followed by Data Engineering.
+   - Post 2021, Data Science and Research recorded the highest surge in job roles ending 2023 at nearly 2500 roles. Truly complementing why it’s the most in demand sector in IT, closely followed by Data Engineering.
 
 2. **Salary Range**:
 
